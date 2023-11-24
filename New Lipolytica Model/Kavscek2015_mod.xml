@@ -38,14 +38,7 @@
       </unitDefinition>
     </listOfUnitDefinitions>
     <listOfCompartments>
-      <compartment constant="false" id="c" metaid="c" name="Cytosol"/>
-      <compartment constant="false" id="m" metaid="m" name="Mitochondria"/>
-      <compartment constant="false" id="eo" metaid="eo" name="Extra_organism"/>
-      <compartment constant="false" id="n" metaid="n" name="Nucleus"/>
-      <compartment constant="false" id="p" metaid="p" name="Peroxisome"/>
-      <compartment constant="false" id="er" metaid="er" name="Endoplasmic_reticulum"/>
-      <compartment constant="false" id="ga" metaid="ga" name="Golgi_Apparatus"/>
-      <compartment constant="false" id="v" metaid="v" name="Vacuole"/>
+
     </listOfCompartments>
     <listOfSpecies>
       <species id="M_10fthf_c" name="M_10_Formyltetrahydrofolate_C20H21N7O7" compartment="Cytosol" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C20H21N7O7"/> 
