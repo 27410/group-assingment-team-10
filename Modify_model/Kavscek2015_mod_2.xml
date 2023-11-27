@@ -27720,7 +27720,6 @@
           <groups:member groups:name="R_acetyl_CoA_C_acetyltransferase" groups:idRef="R_ACACT1"/>
           <groups:member groups:name="R_stearoyl_CoA_desaturase__n_C180CoA___n_C181CoA_" groups:idRef="R_DESAT18"/>
           <groups:member groups:name="R_fatty_acid_synthase__n_C260_" groups:idRef="R_FAS260"/>
-          <groups:member groups:name="R_dodecanoate uptake" groups:idRef="R_EX_ddca_e_"/>
           <groups:member groups:name="R_Acetyl_CoA_ACP_transacylase" groups:idRef="R_ACOATA"/>
           <groups:member groups:name="R_fatty_acyl_ACP_synthase__n_C161ACP___mitochondrial" groups:idRef="R_FAS161ACPm"/>
           <groups:member groups:name="R_fatty_acyl_ACP_hydrolase" groups:idRef="R_FA160ACPH"/>
