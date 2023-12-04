@@ -20,8 +20,7 @@ We encountered alot of problems concerning the models for *Y. lipolytica*, also 
 ## Project overview
 The project is organized as follows:
 
-Main report is found in "Report.md"
-
++Main report is found in "Report.md"
 +Memote reports of models not used in the final analysis are found in folder "Memote_reports"
 +Model work of models not used in the final analysis are found in folder "Model_reload"
 +The model iND750, memote report for this model, and all analysis done using this model are found in folder "Analysis"
