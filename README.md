@@ -12,7 +12,7 @@
 > which I would encourage you to do – up to you. A lot of good science happens out in the open these days.
 > Good luck!
 
-## Project summary (<300 words)
+## Project summary
 The aim of the project has been to edit a model of *Yarrowia lipolytica*, for it to produce Eicosapentaenoic Acid (EPA). The organism was chosen due to its natural capability of producing fatty acids and having a native pathway, producing some precursors of EPA. 
 
 We encountered alot of problems concerning the models for *Y. lipolytica*, also accounted for in the report, and therefore opted to switch to the scaffold model that these *Y. lipolytica* models are based on. The model we ended up using (iND750) is a *Saccharomyces cerevisiae* model, and we therefore inserted a few extra steps in the pathway for it to produce EPA. From this model we showed that production of EPA is possible in *S. cerevisiae*, and with a better working *Y. lipolytica* model we would probably have acchieved similar results (hopefully with better yields).
